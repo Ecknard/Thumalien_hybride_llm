@@ -25,5 +25,32 @@
     "model_name": "",
     "n_samples": 360,
     "timestamp": "2026-05-09T06:36:31.867742"
+  },
+  {
+    "operation": "collect_bluesky",
+    "emissions_kg": 1.503e-05,
+    "energy_kwh": 0.00026828,
+    "duration_sec": 64.78,
+    "model_name": "atproto",
+    "n_samples": 0,
+    "timestamp": "2026-05-12T10:17:53.147067"
+  },
+  {
+    "operation": "preprocessing",
+    "emissions_kg": 4.34e-06,
+    "energy_kwh": 7.752e-05,
+    "duration_sec": 27.89,
+    "model_name": "",
+    "n_samples": 373,
+    "timestamp": "2026-05-12T10:18:21.923460"
+  },
+  {
+    "operation": "classification",
+    "emissions_kg": 0.0002982,
+    "energy_kwh": 0.00532133,
+    "duration_sec": 876.77,
+    "model_name": "DistilBERT (non charg\u00e9) + Phi-3 Mini (actif)",
+    "n_samples": 373,
+    "timestamp": "2026-05-12T10:33:01.035240"
   }
 ]
