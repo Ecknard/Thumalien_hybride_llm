@@ -52,5 +52,14 @@
     "model_name": "DistilBERT (non charg\u00e9) + Phi-3 Mini (actif)",
     "n_samples": 373,
     "timestamp": "2026-05-12T10:33:01.035240"
+  },
+  {
+    "operation": "preprocessing",
+    "emissions_kg": 2.82e-06,
+    "energy_kwh": 5.039e-05,
+    "duration_sec": 31.27,
+    "model_name": "",
+    "n_samples": 360,
+    "timestamp": "2026-05-13T08:02:41.096078"
   }
 ]
